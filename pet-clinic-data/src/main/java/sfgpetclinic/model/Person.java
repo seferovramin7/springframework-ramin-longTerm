@@ -1,4 +1,4 @@
-package ramin.springpet.sfgpet.model;
+package sfgpetclinic.model;
 
 public class Person {
 

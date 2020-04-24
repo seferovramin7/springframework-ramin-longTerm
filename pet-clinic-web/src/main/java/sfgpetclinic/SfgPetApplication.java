@@ -1,4 +1,4 @@
-package ramin.springpet.sfgpet;
+package sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
