@@ -1,5 +1,14 @@
 sfgpetclinic\model\PetType.class
 sfgpetclinic\model\Person.class
-sfgpetclinic\model\Vet.class
+sfgpetclinic\service\VetService.class
+sfgpetclinic\service\CrudService.class
+sfgpetclinic\service\OwnerService.class
+sfgpetclinic\model\BaseEntity.class
 sfgpetclinic\model\Owner.class
+sfgpetclinic\service\map\PetServiceMap.class
+sfgpetclinic\service\map\OwnerServiceMap.class
+sfgpetclinic\service\map\VetServiceMap.class
+sfgpetclinic\service\PetService.class
+sfgpetclinic\service\map\AbstractMapService.class
+sfgpetclinic\model\Vet.class
 sfgpetclinic\model\Pet.class
