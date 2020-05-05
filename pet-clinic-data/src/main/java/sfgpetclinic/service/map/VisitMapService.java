@@ -1,10 +1,12 @@
 package sfgpetclinic.service.map;
 
+import org.springframework.stereotype.Service;
 import sfgpetclinic.model.Visit;
 import sfgpetclinic.service.VisitService;
 
 import java.util.Set;
 
+@Service
 public class VisitMapService extends AbstractMapService<Visit, Long> implements VisitService {
 
 
