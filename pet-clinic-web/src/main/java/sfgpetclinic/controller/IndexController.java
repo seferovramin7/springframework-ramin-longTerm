@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class IndexController {
 
-    @RequestMapping({"/","","/index","/index.html"})
+    @RequestMapping(value = {"/","","/index","/index.html"}, produces = "application/json; charset=UTF-8")
     public String index(){
         return "index";
     }
